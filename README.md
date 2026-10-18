@@ -11,13 +11,13 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 - Me enfoco en **desarrollo backend** con Java y Spring Boot, y también trabajo con **React** y **Kotlin**.
 - Estoy cursando **AWS Academy – Cloud Foundations**, con miras a DevOps.
 - Egreso en **diciembre de 2026**.
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 🚀 Proyectos
+### Proyectos
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
