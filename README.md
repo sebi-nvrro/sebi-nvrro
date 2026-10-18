@@ -15,7 +15,7 @@
 
 - Me enfoco en **desarrollo backend** con Java y Spring Boot, y también trabajo con **React** y **Kotlin**.
 - Estoy cursando **AWS Academy – Cloud Foundations**, con miras a DevOps.
-- Egreso en **diciembre de 2026**.
+- Egreso en **2027**.
 
 ### Tecnologías
 
